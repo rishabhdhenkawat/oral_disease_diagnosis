@@ -1,7 +1,6 @@
 # Automatic oral disease diagnosis
 
-## Introduction
-This is the source code of the paper “Automatic detection of oral cancer in smartphone-based images using deep learning for early diagnosis” (under review).
+
 
 ## Network
 - The multi-class network is using the modified HRNet-W18, which achieves similar classification performance compared with the [official code](https://github.com/HRNet/HRNet-Image-Classification) while reducing the computation complexity and the number of parameters. 
